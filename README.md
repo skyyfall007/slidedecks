@@ -1,6 +1,6 @@
-# slide decks
+# slide decks :grin:
 
-a collection of knowledge + expereinces that I've shared :v:
+a collection of knowledge + expereinces that I've shared! 
 
 | Date |  Event  |  Talk  |
 |------|---------|--------|
