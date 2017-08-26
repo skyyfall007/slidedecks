@@ -7,4 +7,4 @@ a collection of knowledge + expereinces that I've shared!
 | Aug. 31st [2017] | [ChronicCareIQ][1] | [Internship Reflection.][2] |
 
 [1]: https://chroniccareiq.com "ChronicCareIQ"
-[2]: slidedecks/slides/chroniccareiq.pdf "Internship Reflection."
+[2]: /slidedecks/slides/chroniccareiq.pdf "Internship Reflection."
