@@ -8,3 +8,7 @@ a collection of knowledge + expereinces that I've shared!
 
 [1]: https://chroniccareiq.com "ChronicCareIQ"
 [2]: slides/chroniccareiq.pdf "Internship Reflection."
+
+
+
+![Alt Text](https://media.tenor.com/images/37a41f73ad3799e6b1ec4bfb95fc5f2a/tenor.gif)
