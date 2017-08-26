@@ -1,5 +1,4 @@
-# slide decks :grin:
-
+# <span style="color:pink">slide decks</span> :grin:
 a collection of knowledge + expereinces that I've shared! 
 
 | Date |  Event  |  Talk  |
