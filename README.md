@@ -1,5 +1,5 @@
 # slide decks :grin:
-a collection of knowledge + expereinces that I've shared! 
+a collection of knowledge + experiences that I've shared! 
 
 | Date |  Event  |  Talk  |
 |------|---------|--------|
