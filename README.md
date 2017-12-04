@@ -1,4 +1,4 @@
-# slide decks :grin:
+# slide decks/CFP submissions :grin:
 a collection of knowledge + experiences that I've shared! 
 
 | Date |  Event  |  Talk  |
